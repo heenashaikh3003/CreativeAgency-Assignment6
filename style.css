@@ -1,0 +1,1878 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;   
+}
+.black{
+    background-image: url(img/carousel-1.jpg); 
+    height: 320.80px;
+    background-size: 100% 140%;
+    opacity: 0.9;
+    filter: brightness(0.7);
+}
+
+.parent-box{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 3px;
+    padding-top: 4px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.line{
+    width:30px;
+    height: 5px;
+    background-color: black;
+    border-radius: 2px;
+    margin-left: 4px;
+    margin: 4px;
+}
+.parent-box-1{
+    width: 50px;
+    height: 50px;
+    padding-top: 17.2%;
+    margin-top: 20px;
+}
+.circle{
+    width: 14.5px;
+    height: 14.5px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 0px;
+    margin: 8.2%;
+}
+.yellow-circle{
+    background-color: goldenrod;
+}
+.DotCom{
+    margin-left: 37.5%;
+    margin-top: -32.5%;
+    color: white;
+    font-weight: 800;
+}
+.black-span{
+    color: goldenrod;
+}
+.black-ul{
+    display: none;
+    list-style: none;
+    text-align: right;
+    margin-top: -4%;
+}
+.black-ul li{
+    display: inline-block;
+    color: white;
+    list-style: none;
+ 
+}
+.black-ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0px 17px;
+}
+.black-p{
+    color: #fff;
+    margin-left: 20%;
+    margin-top: 12.5%;
+
+}
+.black-h1{
+    color: #fff;
+    margin-left: 20%;
+    margin-top: 2.2%;
+    margin-bottom: 25px;
+}
+.black-btn{
+    text-decoration: none;
+    color: black;
+    margin-left: 20%;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 8px;
+    background-color: goldenrod;
+    border-radius: 4px;
+}
+.white-1{
+    background-color: white;
+    width: 100%;
+    height: 660px;
+    
+}
+.white-1-img{
+    width: 360.9px;
+    height: 300px;
+    margin: 6.7% 0 0 8.8%;
+    border:1px solid #ccc;
+    padding: 13.4px;
+    margin-bottom: 20px;
+
+}
+.white-1-a{
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-left: 8.2%;
+}
+.white-1-h1{
+    margin:5.1% 0 0 8.9%;
+    font-size: 150%; 
+}
+.white-1-p{
+    margin:3.1% 0 0 8.2%;
+    margin-bottom: 6%;
+    padding-right: 6%;
+}
+.white-1-a1{
+    text-decoration: none;
+    color: black;
+    margin-left:8.2%;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 8px;
+    background-color: goldenrod;
+    border-radius: 1.8px;
+}
+.white-div{
+    border: 1px solid #ccc;
+    padding: 2% 2% 1% 1%;
+    display: block;
+    margin-left: 8.2%;
+    margin-right: 5.1%;
+    margin: 2.5%;
+}
+.icon{
+    display: inline-block;
+    color: goldenrod;
+    margin-left: 17.7%;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 1%;
+    
+
+}
+.white-div-h5{
+    margin-left: 28.8%;
+    margin-bottom: 1.8%;
+}
+.white-add{
+    margin-left: 28.8%;
+}
+.white-2{
+    background-color: white;
+    width: 100%;
+    height: 800px;
+    padding-top: 6.7%;
+}
+.white-2-a{
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-left: 8.2%;
+    margin-top: 10%;
+}
+.white-2-h1{
+    margin:5.1% 0 0 8.9%;
+    font-size: 150%;
+}
+.white-2-p{
+    margin:3.1% 0 0 8.2%;
+    margin-bottom: 6%;
+    padding-right: 6%;
+}
+.white-2-a1{
+    text-decoration: none;
+    color: black;
+    margin-left:8.2%;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 8px;
+    background-color: goldenrod;
+    border-radius: 1.8px;
+    margin-bottom: 5%;
+}
+.white-2-div{
+    margin-top: 20px;
+}
+.icon1{
+    color: goldenrod;
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 2%;
+    font-size: 35px;
+}
+.white-2-h4{
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 2%;
+}
+.white-2-p1{
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 10%;
+}
+.white-2-a2{
+    color: goldenrod;
+    position: absolute;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 21%;
+    margin-left: 22%;
+}
+.white-3{
+    background-color: white;
+    width: 100%;
+    height: 530px;
+    padding-top: 6.7%;
+}
+.white-3-a{
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-left: 8.2%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 50%;
+}
+.White-3-h1{
+    margin-top: 9px;
+    margin-left: 37px;
+    font-weight: 800;
+    font-size: 25px;
+    display: inline-block;
+}
+.white-3-p{
+    margin:3.1% 0 0 8.2%;
+    margin-bottom: 6%;
+    padding-right: 6%;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.white-3-a1{
+    text-decoration: none;
+    color: black;
+    margin-left:8.2%;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 8px;
+    background-color: goldenrod;
+    border-radius: 1.8px;
+}
+.white-3-p2{
+    margin:3.1% 0 0 8.2%;
+    margin-bottom: 6%;
+    padding-right: 6%;
+    font-weight: 600;
+    line-height: 2.5%;
+    display: inline-block;
+}
+.spanp1{
+    color: goldenrod;
+}
+.no-box{
+    margin-top: 3.5%;
+    margin-left: 8.2%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 3%;
+}
+.no-box-h1{
+    text-align: center;
+    color: goldenrod
+}
+.no-box-p{
+    text-align: center;
+}
+.no-225{
+    padding-right: 11%;
+}
+.no-2500{
+    padding-right:5.5% ;
+}
+.no-1050{
+    padding-right: 9%;
+}
+.white-4{
+    background-color: white;
+    width: 100%;
+    height: 1250px;
+    padding-top: 6.7%;
+}
+.white-4-a{
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-left: 8.2%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 50%;
+}
+.white-4-h1{
+    margin-top: 9px;
+    margin-left: 37px;
+    font-weight: 800;
+    font-size: 25px;
+    display: inline-block;
+}
+.white-4-p{
+    margin:3.1% 0 0 8.2%;
+    margin-bottom: 6%;
+    padding-right: 6%;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.white-4-a1{
+    text-decoration: none;
+    color: black;
+    margin-left:8.2%;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 8px;
+    background-color: goldenrod;
+    border-radius: 1.8px;
+}
+
+.white-4-img1{
+    margin: 5%;
+    width: 250px;
+    height: 300px;
+    margin-left: 19%;
+    margin-top: 5%;
+    border: 1px solid #ccc;
+    padding-bottom: 80px;
+}
+.white-img-h4{
+    text-align: center;
+    margin-top: -18%;
+}
+.white-img-p{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.parent-box-2{
+    display: none;
+}
+.circle1{
+    width: 14.5px;
+    height: 14.5px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: -28%;
+    margin: 1%;
+    margin-top: 35%;
+}
+.yellow-circle1{
+    background-color: goldenrod;
+}
+.grey-circle{
+    background-color: grey;
+}
+
+.white-5{
+    background-color: white;
+    width: 100%;
+    height: 1080px;
+    padding-top: 6.7%;
+    
+}
+.white-5-a{
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-left: 8.2%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 50%;
+}
+.white-5-h1{
+    margin-top: 9px;
+    margin-left: 37px;
+    font-weight: 800;
+    font-size: 25px;
+    display: inline-block;
+}
+.white-5-p{
+    margin:3.1% 0 0 8.2%;
+    margin-bottom: 6%;
+    padding-right: 6%;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.white-5-h4{
+    margin-top: 9px;
+    margin-left: 37px;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.white-5-a1{
+    text-decoration: none;
+    color: black;
+    margin-left:8.2%;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 8px;
+    background-color: goldenrod;
+    border-radius: 1.8px;
+}
+.white-5-price{
+    margin: 10%;
+    width: 280px;
+    height: 300px;
+    margin-left: 19%;
+    margin-top: 5%;
+    border: 1px solid #ccc;
+    padding-bottom: 80%;
+    
+}
+.yellow-div{
+    background-color: goldenrod;
+    text-align: center;
+    padding: 10%;
+}
+.yellow-h4{
+    font-size: 20px;
+    margin-bottom: 2%;
+}
+.yellow-div h4{
+    font-size: 19px;
+}
+.yellow-div sub {
+    font-size: 10px;
+}
+.yellow-p{
+
+    text-align: center;
+    margin-left: 6%;
+    margin-top: 8%;
+}
+.yello-a{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    background-color: goldenrod;
+    padding: 2%;
+    margin-left: 22%;
+    margin-top: 3%;
+}
+
+.white-6{
+    background-color: white;
+    width: 100%;
+    height: 720px;
+    padding-top: 6.7%;
+    /* border: 1px solid red; */
+}
+.white-6-a{
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-left: 8.2%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 50%;
+}
+.white-6-h1{
+    margin-top: 9px;
+    margin-left: 37px;
+    font-weight: 800;
+    font-size: 25px;
+    display: inline-block;
+}
+.white-6-p{
+    margin:3.1% 0 0 8.2%;
+    margin-bottom: 6%;
+    padding-right: 6%;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.white-6-a1{
+    text-decoration: none;
+    color: black;
+    margin-left:8.2%;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 8px;
+    background-color: goldenrod;
+    border-radius: 1.8px;
+}
+.white-6-p1{
+    margin-left: 15.2%;
+    margin-right: 16%;
+    margin-top: 7%;
+    border: 1px solid #ccc;
+    padding: 3% 4% 3% 4%;
+}
+.p-box-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: 18%;
+    margin-top: 4%;
+}
+.p-box-h4{
+    margin-left: 35%;
+    margin-top: -14%;
+}
+.p-box-p2{
+    margin-left: 35%;
+    margin-top: 1%;
+}
+.parent-box-3{
+    display: none;
+}
+.circle2{
+    width: 14.5px;
+    height: 14.5px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: -28%;
+    margin: 1%;
+    margin-top: 1%;
+}
+.yellow-circle2{
+    background-color: goldenrod;
+}
+.grey-circle{
+    background-color: grey;
+}
+.white-7{
+    width: 100%;
+    height: 700px;
+    /* border: 1px solid red; */
+    padding-top: 7px;
+}
+.white-7-a{
+    background-color: goldenrod;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    margin-left: 37.2%;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.white-7-h1{
+    margin-top: 3%;
+    text-align: center;
+}
+.white-7-img{
+    width: 350px;
+    height: 180px;
+    margin-left: 7%;
+    margin-top: 3%;
+    position: relative;
+    
+}
+.small-yellow{
+    position: absolute;
+    width: 15%;
+    background-color: goldenrod;
+    text-align: center;
+    margin-left: 7%;
+    margin-top: -13.5%;
+}
+.white-7-small-pic{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 2%;
+    margin-left: 9%;
+}
+.white-7-small-p{
+    display: inline-block;
+    position: absolute;
+    margin-top: 5.5%;
+    margin-left: 2%;
+}
+.white-7-icon{
+    position: absolute;
+    font-size: 17px;
+    margin-left: 30%;
+    margin-top:6% ;
+    color: goldenrod;
+}
+.white-7-small-p1{
+    display: inline-block;
+    position: absolute;
+    margin-top: 5.5%;
+    margin-left: 36%;
+}
+.white-7-small-h5{
+    display: inline-block;
+    position: absolute;
+    margin-top: 14.5%;
+    margin-left: -9%;
+}
+.white-7-img-box{
+    padding-bottom:15% ;
+}
+.footer-dotcom{
+    width: 100%;
+    height: 820px;
+    border: 1px solid red;
+    background-color: black;
+}
+.DotCom1{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+.black-span1{
+    color: goldenrod;
+}
+.black-1-p{
+    color: white;
+    text-align: center;
+    margin-top: 1%;
+}
+.black1-icon{
+    color: goldenrod;
+    margin-left: 41%;
+    margin-top: 2%;
+}
+.Quick-links{
+    text-align: center;
+    color: goldenrod;
+    /* margin-left: 7%; */
+    margin-top: 5%;
+    padding-bottom: 2%;
+}
+.Quick-home{
+    margin-left: 41%;
+    color: white;
+    font-size: 17px;
+}
+.spanp2{
+    color: goldenrod;
+}
+.Popular-links{
+    text-align: center;
+    color: goldenrod;
+    margin-left: 5.2%;
+    margin-top: 5%;
+    padding-bottom: 2%;
+}
+.Popular-home{
+    margin-left: 41%;
+    color: white;
+    font-size: 17px;
+}
+.get-in-touch{
+    text-align: center;
+    color: goldenrod;
+    /* margin-left: 7%; */
+    margin-top: 5%;
+    padding-bottom: 2%;
+}
+.get-in-touch-p{
+    color: white;
+    text-align: center;
+}
+.get-in-touch-icon{
+    color: goldenrod;
+    font-size: 22px;
+    margin-left: 24%;
+    margin-top: 3.5%;
+}
+.get-in-touch-add{
+    color: white;
+    margin-left: 31.5%;
+    margin-top: -5%;
+}
+
+
+
+
+
+@media (min-width:768px){
+    .black{
+        height: 360.5px;
+        filter: brightness(0.7);
+    }
+    .DotCom{
+        margin-top: -25%;
+        margin-left: 42.5%;
+    }
+    .black-p{
+        margin-top: 8.5%;
+        margin-left: 28.2%;   
+    }
+    .black-h1{
+        margin-left: 28.3%;
+    }
+    .black-btn{
+        width: 15.2%;
+        height: 10%;
+        margin-left: 28.9%;
+        margin-top: 2.2%;
+    }
+    .parent-box-1{
+        margin-top: 80.5px;
+        padding-top: 0; 
+        margin-left: 8px;
+    }
+    .white-1-img{
+        width: 250.6px;
+        height: 270.2px;
+        margin-left: 6.2%;
+        display: inline-block;
+    }
+    .white-1-a{
+       position: absolute;
+       top: 70.4%;
+       left: 33.5%;
+       padding: 4px;
+    }
+    .white-1-h1{
+        position: absolute;
+        top: 69.5%;
+        margin-left:41.5% ;
+    }
+    .white-1-p{
+        position: absolute;
+        top: 82.8%;
+        left: 33.2%;
+    }
+    .white-1-a1{
+        position: absolute;
+        top: 106.8%;
+        left: 33.5%;
+        padding: 5px;
+    }
+    .white-1{
+        height: 320px;
+    }
+    .white-div{
+        margin-left: 6%;
+        margin-right: 6%;
+    }
+    .white-2{
+        background-color: white;
+        width: 100%;
+        height: 600px;
+        /* border: 2px solid red; */
+        padding-top: 6.7%;
+    }
+    .white-2-h1{
+        font-size: 35px;
+        margin-left: 5.8%;
+    }
+    .white-2-a{
+        position: absolute;
+        margin-top: -3%;
+        margin-left: 5.8%;
+    }
+    .white-2-p{
+        position: absolute;
+        margin-top: -0.2%;
+        margin-left: 5.8%;
+    }
+    .white-2-a1{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 5.8%;
+    }
+    .div1{
+        position: absolute;
+        margin-top: 15%;
+        margin-left: 12%;
+        width: 32%;
+    }
+     .div1 .icon1{
+        margin-left: 1%;
+     }
+    .div1 h4{
+        position: absolute;
+        margin-left: 25.5%;
+    }
+    .div1 p{
+        position: absolute;
+        margin-left: 25.5%;
+    }
+    .div1 a{
+        position: absolute;
+        margin-top:43.1%;
+        margin-left: 25.5%;
+    }
+
+    .div2{
+        position: absolute;
+        margin-top: 0%;
+        margin-left: 50%;
+        width: 32%;
+    }
+     .div2 .icon1{
+        margin-left: 1%;
+     }
+    .div2 h4{
+        position: absolute;
+        margin-left: 25.5%;
+    }
+    .div2 p{
+        position: absolute;
+        margin-left: 25.5%;
+    }
+    .div2 a{
+        position: absolute;
+        margin-top:43.1%;
+        margin-left: 25.5%;
+    }
+    .div3{
+        position: absolute;
+        margin-top: 5%;
+        margin-left: 12%;
+        width: 32%;
+    }
+     .div3 .icon1{
+        margin-left: 1%;
+     }
+    .div3 h4{
+        position: absolute;
+        margin-left: 25.5%;
+    }
+    .div3 p{
+        position: absolute;
+        margin-left: 25.5%;
+    }
+    .div3 a{
+        position: absolute;
+        margin-top:43.1%;
+        margin-left: 25.5%;
+    }
+    
+     .div4{
+        position: absolute;
+        margin-top: -10%;
+        margin-left: 50%;
+        width: 32%;
+    }
+     .div4 .icon1{
+        margin-left: 1%;
+     }
+    .div4 h4{
+        position: absolute;
+        margin-left: 25.5%;
+    }
+    .div4 p{
+        position: absolute;
+        margin-left: 25.5%;
+    }
+    .div4 a{
+
+        position: absolute;
+        margin-top:43.1%;
+        margin-left: 25.5%;
+    }
+    .white-3{
+        background-color: white;
+        width: 100%;
+        height: 450px;
+        padding-top: 6.7%;
+    }
+    .white-3-a{
+        margin-left: 5.2%;
+    }
+    .White-3-h1{
+        margin-left: 5.2%;
+    }
+    .white-3-p{
+        margin-left: 5.2%;
+        margin-top: 1%;
+        margin-right: 60%;
+    }
+    .white-3-p2{
+        margin-top: -19%;
+        margin-left: 5.2%;
+    }
+    .white-3-a1{
+        margin-top: -2%;
+        margin-left: 5.2%;
+    }
+   .no-25{
+    position: absolute;
+    margin-top: -36%;
+    margin-left: 45%;
+   }
+   .no-225{
+    position: absolute;
+    margin-top: -36%;
+    margin-left: 70%;
+    padding-right: 6.8%;
+   }
+   .no-1050{
+    position: absolute;
+    margin-top: -20%;
+    margin-left: 45%;
+    padding-right: 6.8%;
+   }
+   .no-2500{
+     position: absolute;
+    margin-top: -20%;
+    margin-left: 70%;
+    padding-right: 6.8%;
+    padding-right: 3.8%;
+   }
+   
+   .white-4{
+    background-color: white;
+    width: 100%;
+    height: 350px;
+    padding-top: 6.7%;
+   }
+   
+   .white-4-a{
+    position: absolute;
+    margin-top: -6%;
+    margin-left: 5.2%; 
+    }
+    .White-4-h1{
+    margin-left: 5.2%; 
+    }
+    .white-4-p{
+    margin-left: 5.2%;
+    margin-top: 1%;
+    margin-right: 60%;
+    }
+    .white-4-p2{
+    margin-top: -19%;
+    margin-left: 5.2%;
+    }
+   .white-4-a1{
+    position: absolute;
+    margin-top: -4%;
+    margin-left: 5.2%;
+    }
+    
+   .john{
+    position: relative;
+    width: 140px;
+    height: 250px;
+    margin-top: -35%;
+    margin-left: 37%;
+    padding-bottom: 10%;
+}
+.john-h4{
+    position: absolute;
+    margin-top: -13%;
+    margin-left: 40%;
+}
+.John-p{
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 41%;
+}
+ 
+.Paul{
+    position: absolute;
+    width: 140px;
+    height: 250px;
+    margin-top: -38%;
+    margin-left: 57%;
+    padding-bottom: 10%;
+}
+.Paul-h4{
+    position: absolute;
+    margin-top: -13%;
+    margin-left: 59%;
+}
+.Paul-p{
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 61%;
+}
+.Doe{
+    position: absolute;
+    width: 140px;
+    height: 250px;
+    margin-top: -38%;
+    margin-left: 77%;
+    padding-bottom: 10%;
+}
+.doe-h4{
+    position: absolute;
+    margin-top: -13%;
+    margin-left: 80%;
+}
+.Doe-p{
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 79%;
+}
+
+.parent-box-2{
+    display: inline-block;
+    margin-left: 60%;
+    margin-top: -18%;
+    display: flex;
+}  
+.white-5{
+    background-color: white;
+    width: 100%;
+    height: 730px;
+    padding-top: 6.7%;
+   }
+
+.white-5-price{
+    margin: 10%;
+    width: 280px;
+    height: 200px;
+    margin-left: 19%;
+    margin-top: 5%;
+    border: 1px solid #ccc;
+    padding-bottom: 50%;
+    
+}
+.white-5-a{
+    margin-left: 5%;
+}
+.white-5-h1{
+    margin-top: 2%;
+}
+.white-5-p{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.white-5-h4{
+    margin-left: 4.2%;
+    margin-top: -5%;
+}
+.white-5-a1{
+    margin-left: 5%;
+}
+.yellow-div-1{
+    margin-left: 9%;
+}
+.yellow-div-2{
+    margin-left: 55%;
+    margin-top: -60.2%;
+}
+.yello-a{
+    margin-left: 11%;
+}
+
+.white-6-a{
+    position: absolute;
+    margin-left: 4.2%;
+    margin-top: -5%;
+}
+.white-6-p{
+    margin-left: 4.2%;
+    margin-top: 1%;
+}
+.p-box{
+    margin-top: -1%;
+    margin: 7%;
+}
+.p-box-img{
+    position: absolute;
+    margin-top: -6%;
+    margin-left: 25%;
+}
+.p-box-h4{
+    margin-top: -5%;
+}
+.white-6-a1{
+    margin-left: 4.2%;
+}
+.white-7{
+    width: 100%;
+}
+.white-7{
+    width: 100%;
+    height: 375px;
+    /* border: 1px solid red; */
+    padding-top: 7px;
+}
+.white-7-a{
+    margin-left: 41%;
+}
+.white-7-h1{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 36%;
+}
+.white-7-img{
+    margin-left: 2%;
+    margin-top: 7%;
+}
+.small-yellow{
+    margin-left: 1.9%;
+    margin-top: -7.5%;
+    padding: -1%;
+}
+.white-7-small-pic{
+    position: absolute;
+    left: -2%;
+    margin-top: 32%;
+}
+.white-7-small-p{
+    position: absolute;
+    left: 11%;
+    margin-top: 33.5%;
+}
+.white-7-icon{
+    position: absolute;
+    left: -2%;
+    margin-top: 34.2%;
+}
+.white-7-small-p1{
+    position: absolute;
+    left: -5%;
+    margin-top: 34.2%;
+}
+.white-7-small-h5{
+    position: absolute;
+    left: 17%;
+    margin-top: 38%;
+    margin-right: 52%;
+}
+.white-7-img1{
+    position: absolute;
+    margin-top: -38.8%;
+    margin-left: 52%;
+}
+.small-yellow1{
+    position: absolute;
+    margin-top: -22.5%;
+    margin-left: 52%;
+}
+.white-7-small-pic1{
+    position: absolute;
+    margin-top: -14%;
+    margin-left: 57%;
+}
+.white-7-small-pw{
+    position: absolute;
+    margin-top: -12.5%;
+    margin-left: 50%;
+}
+.white-7-icon1{
+    position: absolute;
+    margin-top: -12.5%;
+    margin-left: 78%;
+}
+.white-7-small-pwd{
+    position: absolute;
+    margin-top: -12.5%;
+    margin-left: 85%;
+}
+.white-7-small-h5p{
+    position: absolute;
+    margin-top: -8%;
+    left: 62%;
+    margin-right: 1%;
+}
+.footer-dotcom{
+    width: 100%;
+    height: 530px;
+    border: 1px solid red;
+    background-color: black;
+}
+.Quick-links{
+    position:absolute ;
+    margin-left: 27%;
+}
+.Quick-home{
+    margin-left: 27%;
+    position: absolute;
+    padding-top: 10%;
+    line-height: -10%;
+}
+.Popular-links{
+    position:absolute ;
+    margin-left: 58%;
+    margin-top: -7%;
+}
+.Popular-home{
+    margin-left: 58%;
+    position: absolute;
+    margin-top: -2%;
+    line-height: -20%;
+}
+.get-in-touch{
+    margin-top: 1%;
+    text-align: center;
+}
+.get-in-touch-icon{
+    margin-top: 4%;
+    margin-left: 31%;
+}
+.get-in-touch-add{
+    padding-top: 2%;
+    margin-left: 36%;
+}
+
+}
+
+
+
+
+
+@media (min-width:1024px){
+   *{
+    margin-top: 0;
+    padding: 0;
+   }
+    .black{
+    padding-bottom: 500px;
+    padding-top: 10%;
+    height: 550px;
+    filter: brightness(0.7);
+   }
+   .parent-box{
+    display: none;
+   }
+   .parent-box-1{
+    margin-top: 80px;
+    padding-top: 80px;
+   }
+    .black-ul{
+    display: block;
+    
+   }
+   .DotCom{
+    margin-left: 4%;
+    margin-top: -19%; 
+    width:220px ;
+    height: 80px
+    }
+    .black-p{
+        font-size: 20px;
+        margin-top: 12%;
+    }
+    .black-h1{
+        font-size: 65.8px;
+        margin-top: 1%;
+        /* margin-top: 1px; */
+    }
+    .black-btn{
+        width: 100%;
+        height: 20%;
+        background-color: goldenrod;
+    }
+    .circle{
+        width: 18.5px;
+        height: 17.5px;
+        border-radius: 50%;
+        margin-left: 0px;
+        margin: 10.2%;
+    }
+    .black-ul a{
+        color: white;
+        text-decoration: none;
+        font-size: 22.2px;
+        margin: 7px;
+    }
+    .white-1-img{
+        width: 350.6px;
+        height: 320.2px;
+        margin-top: 4.2%;
+        margin-left: 4.2%;
+    }
+    .white-1-a{
+        position: absolute;
+        top: 102%;
+        left: 21.5%;
+        padding: 4px;
+     }
+     .white-1-h1{
+         position: absolute;
+         top: 95.5%;
+         margin-left:29.5% ;
+         font-size: 42px;
+     }
+     .white-1-p{
+         position: absolute;
+         top: 115.8%;
+         left: 21.2%;
+         font-size: 18px;
+     }
+     .white-1-a1{
+         position: absolute;
+         top: 133%;
+         left: 21%;
+         padding: 5px;
+     }
+     .white-2{
+        background-color: white;
+        width: 100%;
+        height: 332px;
+        /* border: 2px solid red; */
+        padding-top: 6.7%;
+    }
+    
+    .white-div{ 
+        padding: 2% 12% 1% 7%;
+        display: inline-block;
+        margin-left: 4.2%;
+        margin-right: 0%;
+        margin-top: 6%;
+        margin-bottom: 3%;
+    }
+    .white-add{
+        margin-left: -1%;
+    }
+    .icon{
+       margin-left: -4%; 
+       margin-top: -0.12%;
+       font-size: 32px;
+    }
+    .white-div-h5{
+        margin-left: -1%;
+    }
+    .white-2-a{
+        margin-top: -5.8%;
+        margin-left: 4.2%;
+        padding: 1px;
+
+    }
+    .white-2-h1{
+        margin-left: 4.2%;
+        margin-top: -4%;
+        font-size: 48px;
+        font-weight:800 ;
+    }
+    .white-2-p{
+        margin-left:4.2%;
+        margin-top: 1%;
+        margin-right: 70.2%;
+    }
+    .white-2-a1{
+        margin-left: 4.2%;
+        margin-top: 9%;
+    } 
+    .white-2-h1{
+        font-size: 150%;
+    }
+    .white-2-p{
+        margin-right: 60%;
+        font-size: 140%;
+    }
+    .white-2-a1{
+        margin-top: 12%;
+    }
+    .div1{
+        margin-top: -5%;
+        margin-left: 37%;
+        width: 32%;
+    }
+     .div1 .icon1{
+        margin-left: 8%;
+     }
+    .div1 h4{
+        margin-left: 21.5%;
+    }
+    .div1 p{
+        margin-left: 21.5%;
+        margin-top: 8%;
+        margin-right: 25%;
+
+    }
+    .div1 a{
+        margin-top: 20.5%;
+        margin-left: 21.5%;
+    }
+
+    .div2{
+        
+        margin-top: -12%;
+        margin-left: 65%;
+        width: 32%;
+    }
+     .div2 .icon1{
+        margin-left: 8%;
+     }
+    .div2 h4{
+        margin-left: 21.5%;
+    }
+    .div2 p{
+        margin-left: 21.5%;
+        margin-top: 8%;
+        margin-right: 25%;
+
+    }
+    .div2 a{
+        margin-top: 20.5%;
+        margin-left: 21.5%;
+    }
+
+    .div3{
+        margin-top: -10%;
+        margin-left: 37%;
+        width: 32%;
+    }
+     .div3 .icon1{
+        margin-left: 8%;
+        margin-top: 1%;
+     }
+    .div3 h4{
+        margin-left: 21.5%;
+    }
+    .div3 p{
+        margin-left: 21.5%;
+        margin-top: 7%;
+        margin-right: 25%;
+
+    }
+    .div3 a{
+        margin-top: 18%;
+        margin-left: 21.5%;
+    }
+
+    .div4{
+        margin-top: -17%;
+        margin-left: 65%;
+        width: 32%;
+    }
+     .div4 .icon1{
+        margin-left: 8%;
+     }
+    .div4 h4{
+        margin-left: 21.5%;
+    }
+    .div4 p{
+        margin-left: 21.5%;
+        margin-top: 7%;
+        margin-right: 25%;
+
+    }
+    .div4 a{
+        margin-top: 18%;
+        margin-left: 21.5%;
+    }
+    .white-3{
+        background-color: white;
+        width: 100%;
+        height: 330px;
+        padding-top: 6.7%;
+    }
+    .white-3-a{
+        position: absolute;
+        margin-top: -5%;
+        margin-left: 4.2%;
+    }
+    .White-3-h1{
+        position: absolute;
+        margin-left: 4.2%;
+        margin-top:-3%;
+        font-size: px;
+    }
+    .white-3-p{
+        position: absolute;
+        margin-left: 4.2%;
+        margin-top: 1%;
+        font-size: 20px;
+    }
+    .white-3-p2{
+        position: absolute;
+        margin-top: 5.6%;
+        margin-left: 4.2%;
+    }
+    .white-3-a1{
+        position: absolute;
+        margin-top: 6%;
+        margin-left: 4.2%;
+    }
+    .no-2500{
+        margin-top: 1%;
+        padding: 2% 3% 2% 3%;
+    }
+    .no-1050{
+        margin-top: 1%;
+        padding: 2% 4.8% 2% 3%;
+    }
+    .no-225{
+        margin-top: -8%;
+        padding: 2% 4.8% 2% 3%;
+    }
+    .no-25{
+        margin-top: -8%;
+        padding: 2% 3% 2% 3%;
+    }
+
+    .white-4-a{
+        position: absolute;
+        margin-top: -5%;
+        margin-left: 4.2%;
+    }
+    .white-4-h1{
+        position: absolute;
+        margin-left: 4.2%;
+        margin-top:-2%;
+    }
+    .white-4-p{
+        position: absolute;
+        margin-left: 4.2%;
+        margin-top: 3%;
+        font-size: 20px;
+    }
+    .white-4-a1{
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 4.2%;
+    }
+
+    .john{
+        position: absolute;
+        width: 210px;
+        height: 310px;
+        margin-top: -5.2%;
+        margin-left: 37%;
+        padding-bottom: 5%;
+    }
+    .john-h4{
+        position: absolute;
+        margin-top: 11%;
+        margin-left: 40%;
+    }
+    .John-p{
+        position: absolute;
+        margin-top: 12.5%;
+        margin-left: 41%;
+    }
+
+    .Paul{
+        position: absolute;
+        width: 210px;
+        height: 310px;
+        margin-top: -5.2%;
+        margin-left: 55%;
+        padding-bottom: 5%;
+    }
+    .Paul-h4{
+        position: absolute;
+        margin-top: 11%;
+        margin-left: 59%;
+    }
+    .Paul-p{
+        position: absolute;
+        margin-top: 12.5%;
+        margin-left: 60%;
+    }
+    .Doe{
+        position: absolute;
+        width: 210px;
+        height: 310px;
+        margin-top: -5.2%;
+        margin-left: 73%;
+        padding-bottom: 5%;
+    }
+    .doe-h4{
+        position: absolute;
+        margin-top: 11%;
+        margin-left: 77%;
+    }
+    .Doe-p{
+        position: absolute;
+        margin-top: 12.5%;
+        margin-left: 76%;
+    }
+
+    .parent-box-2{
+
+        display: inline-block;
+        margin-left: 58%;
+        margin-top: 2.2%;
+        display: flex;
+    }  
+    .white-5{
+        height: 453px;
+    }
+    .white-5-price{
+        margin: 10%;
+        width: 280px;
+        height: 170px;
+        margin-left: 19%;
+        margin-top: 5%;
+        border: 1px solid #ccc;
+        padding-bottom: 25%;
+        
+    }
+    .white-5-a{
+        position: absolute;
+        margin-top: -2%;
+        margin-left:4.2%;
+    }
+    .white-5-h1{
+        margin-left: 4.2%;
+        margin-top: 1%;
+    }
+    .white-5-p{
+        margin-left: 4.2%;
+        margin-right: 60%;
+    }
+    .white-5-a1{
+        margin-left: 4.2%;
+    }
+    .yellow-div-1{
+        margin-top: -18.3%;
+        margin-left: 37%;
+    }
+    .yellow-div-2{
+        margin-top: -35%;
+        margin-left: 68%;
+    }
+    .yello-a{
+        padding: 1%;
+        margin-left: 6%;
+        margin-top: 2%;
+    }
+    .white-6{
+        background-color: white;
+        width: 100%;
+        height: 380px;
+        padding-top: 6.7%;
+        /* border: 1px solid red; */
+    }
+
+    .white-6-a{
+        position: absolute;
+        margin-top: -5%;
+        margin-left: 4.2%;
+    }
+    .white-6-h1{
+        position: absolute;
+        margin-left: 4.2%;
+        margin-top:-2%;
+    }
+    .white-6-p{
+        position: absolute;
+        margin-left: 4.2%;
+        margin-top: 3%;
+        font-size: 20px;
+        margin-right: 70%;
+    }
+    .white-6-a1{
+        position: absolute;
+        margin-top: 13%;
+        margin-left: 4.2%;
+    }
+    .white-6-p1{
+        margin-left: 50%;
+    }
+    .p-box1{
+        position: absolute;
+        margin-left: -5%;
+        margin-top: -6%;
+    }
+    .p-box-img1{
+        margin-top: 10%;
+        margin-left: 31%;
+    }
+    .p-box-img2{
+        margin-top: 11%;
+        margin-left: 61%;
+    }
+    .p-box2{
+        position: absolute;
+        margin-left: 27%;
+        margin-top: -19%;
+    }
+    .p-box-h4-4{
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 36%;
+    }
+    .p-box-p2-2{
+        display: inline-block;
+        margin-top: 11.5%;
+        margin-left: 36%;
+    }
+    .p-box-p2-p2{
+        display: inline-block;
+        margin-top: 0.5%;
+        margin-left: 67%;
+    }
+    .p-box-h4-h4{
+        margin-top: -3%;
+        margin-left: 67%;
+    }
+    .p-box-img2{
+        margin-left: 21%;
+        margin-top: 10%;
+    }
+    .parent-box-3{
+        display: inline-block;
+        margin-left: 50%;
+        margin-top: 2.2%;
+        display: flex;
+    }  
+    
+    .white-7{
+        background-color: white;
+        width: 100%;
+        height: 620px;
+        padding-top: 6.7%;
+        /* border: 1px solid red; */
+    }
+
+    .white-7-a{
+        position: absolute;
+        margin-left: 43%;
+        margin-top: -4%;
+        padding: 1%;
+    }
+    .white-7-h1{
+        position: absolute;
+        margin-top: 0.1%;
+        margin-left: 39%;
+        font-size: 35px;
+    }
+    .white-7-img{
+        width: 500px;
+        height: 300px;
+        margin-top: 5%;
+        margin-left: 4.2%;
+    }
+    .white-7-img1{
+        width: 500px;
+        height: 300px;
+        margin-top: -35%;
+        margin-left: 50%;
+    }
+    .small-yellow{
+        position: absolute;
+        width: 80px;
+        height: 50px;
+        left: 2.4%;
+        margin-top: -3.5%;
+        
+    }
+    .white-7-small-pic{
+        margin-top: 26%;
+    }
+    .white-7-small-p{
+        margin-top: 27%;
+        margin-left: -1%;
+    }
+    .white-7-icon{
+        position: absolute;
+        left: -10%;
+        margin-top: 27%;
+        
+    }
+    .white-7-small-p1{
+        position: absolute;
+        left: -14%;
+        margin-top: 27%;
+    }
+    .white-7-small-h5{
+        position: absolute;
+        left: 16%;
+        margin-top: 30%;
+    }
+    .small-yellow1{
+        position: absolute;
+        left: -1.9%;
+        margin-top: -18.5%;
+    }
+    .white-7-small-pic1{
+        position: absolute;
+        left: -1.9%;
+        margin-top: -13.8%;
+    }
+    .white-7-small-pw{
+        position: absolute;
+        left: 60%;
+        margin-top: -12.8%;
+    }
+    .white-7-icon1{
+        position: absolute;
+        left: -10%;
+        margin-top: -12.8%;
+    }
+    .white-7-small-pwd{
+        position: absolute;
+        left: -15%;
+        margin-top: -12.8%;
+    }
+    .white-7-small-h5p{
+        position: absolute;
+        left: 65%;
+        margin-top: -10.5%;
+        margin-right: 18%;
+    }
+    .white-7-small-h5p1{
+        margin-right: 68%;
+    }
+    
+
+    .footer-dotcom{
+        height: 310px;
+    }
+
+    .DotCom1{
+        position: absolute;
+        margin-left: 2%;
+        margin-top: 3%;
+    }
+    .black-1-p{
+        margin-left: 1%;
+        margin-top: 7%;
+        margin-right: 78%;
+    }
+    .black1-icon{
+       margin-left: 7%;
+       margin-right: 12%;
+    }
+    .Links{
+        margin-left: 10%;
+        margin-top: -18%;
+    }
+    .Links1{
+        margin-left: -10%;
+        margin-top: 6%;
+    }
+    .Quick-links{
+        margin-left: 26.4;
+        margin-top: 8%;
+    }
+    .Popular-links{
+        margin-left: 58%;
+        margin-top: -4%;
+
+    }
+    .get-in-touch{
+        margin-left: 55%;
+        margin-top: -10.5%;
+    }
+    .get-in-touch-p{
+     margin-left: 72%;
+     margin-right: 4%; 
+     margin-top: -1%;
+    }
+    .get-in-touch-icon{
+        font-size: 15px;
+        margin-left: 74.5%;
+        margin-top: 1%;
+    }
+    .get-in-touch-add{
+        font-size: 80%;
+        margin-left: 77.2%;
+        margin-top: -2.9%;
+    }
+
+
+
+}
